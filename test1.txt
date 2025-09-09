@@ -1,1 +1,1 @@
-git test1번 파일 수정
+git test1번 파일 원격에서 수정
